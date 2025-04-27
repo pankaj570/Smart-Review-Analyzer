@@ -40,3 +40,15 @@ This project combines Data Science, ML, Generative AI (Gemini), and MCP to analy
 3. **Train Model and Save as Pickle file** : python train_model.py
 4. **Set your Gemini API key in a `.env` file**: GEMINI_API_KEY=your-api-key-here
 5. **Run the app:** streamlit run dashboard/streamlit_app.py
+
+## Project Output
+1. Esclate Reply by AI for Negative feedback by customer
+![image](https://github.com/user-attachments/assets/8b492b1f-0eff-4fb5-8149-875619314106)
+
+2. Positive Reply by AI for positive feedback by customer
+![image](https://github.com/user-attachments/assets/5ea73184-ed13-4fa2-ada2-020a2c563834)
+
+
+
+
+
