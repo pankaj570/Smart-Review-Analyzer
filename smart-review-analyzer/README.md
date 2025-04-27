@@ -12,14 +12,10 @@ Help an e-commerce company automatically:
 ### 🧱 Architecture Overview
 
 📦 Review Input
-   │
-   ├── 📊 Data Science (explore reviews, detect trends)
-   │
-   ├── 🤖 ML (predict churn or satisfaction score)
-   │
-   ├── ✍️ GenAI (generate personalized response)
-   │
-   └── 🧠 MCP (orchestrates all agents, makes final decision)
+- 📊 Data Science (explore reviews, detect trends)
+- 🤖 ML (predict churn or satisfaction score)
+- ✍️ GenAI (generate personalized response)
+- 🧠 MCP (orchestrates all agents, makes final decision)
 
 # 🔧 Tools Used
 
